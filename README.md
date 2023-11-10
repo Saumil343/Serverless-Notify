@@ -13,7 +13,7 @@
 
 In this use case, we leverage AWS serverless components – Lambda, API Gateway, and DynamoDB – to create a system that sends SMS notifications to users submitting inquiries via a website contact form outside business hours. AWS Lambda executes code logic, checking timestamps in DynamoDB to ensure timely responses, while API Gateway facilitates user-triggered events. This serverless architecture not only ensures cost-effective scalability but also optimizes resource usage by charging only for the executed functions.
 
-Read the full blog here : 
+Read the full blog here : https://medium.com/@saumil343/after-hours-assurance-seamless-customer-connections-with-the-power-of-serverless-d3cab993b0d3
 
 
 
